@@ -1,12 +1,13 @@
 # React + Vite + Tailwind  
-## [Live Demo](https://nike-website-clone-v3.vercel.app/)  
-Live Demo : https://nike-website-clone-v3.vercel.app/
+
+##Live Demo : https://nike-website-clone-v3.vercel.app/
 
 <img src="/src/Assets/Nike Website.png" />
 
 <div align="center">
   <img src="/src/Assets/Nike Website Mobile.png" width="300px" />
 </div>
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
