@@ -3,7 +3,7 @@
 
 <img src="/src/Assets/Nike Website.png" />
 
-<img src="/src/Assets/Nike Website Mobile.png" width="300px" />
+<img src="/src/Assets/Nike Website Mobile.png" width="300px" align="center" />
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
