@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Arrow from "../assets/Icons/arrow-right.svg";
-import Shoes1 from "../assets/Images/pngwing.com (3).png";
-import Shoes2 from "../assets/Images/pngwing.com (3).png";
-import Shoes3 from "../assets/Images/pngwing.com (2).png";
-import Shoes4 from "../assets/Images/wmremove-transformed.png";
+import Arrow from "../Assets/Icons/arrow-right.svg";
+import Shoes1 from "../Assets/Images/pngwing.com (3).png";
+import Shoes2 from "../Assets/Images/pngwing.com (3).png";
+import Shoes3 from "../Assets/Images/pngwing.com (2).png";
+import Shoes4 from "../Assets/Images/wmremove-transformed.png";
 
 function Home() {
   const [mainImg, setMainImage] = useState(Shoes1);

@@ -1,4 +1,4 @@
-import SuperShoes from "../assets/Images/vibrant-orange-sneaker.jpeg";
+import SuperShoes from "../Assets/Images/vibrant-orange-sneaker.jpeg";
 function SuperQuality() {
   return (
     <div id="about" className="bg-black py-10 px-10">

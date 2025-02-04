@@ -1,14 +1,14 @@
-import product1 from "../assets/Images/shoe4.svg";
-import product2 from "../assets/Images/shoe5.svg";
-import product3 from "../assets/Images/shoe6.svg";
-import product4 from "../assets/Images/shoe7.svg";
-import star from "../assets/Icons/star.svg";
-import icon1 from "../assets/Icons/truck-fast.svg";
-import icon2 from "../assets/Icons/shield-tick.svg";
-import icon3 from "../assets/Icons/support.svg";
+import product1 from "../Assets/Images/shoe4.svg";
+import product2 from "../Assets/Images/shoe5.svg";
+import product3 from "../Assets/Images/shoe6.svg";
+import product4 from "../Assets/Images/shoe7.svg";
+import star from "../Assets/Icons/star.svg";
+import icon1 from "../Assets/Icons/truck-fast.svg";
+import icon2 from "../Assets/Icons/shield-tick.svg";
+import icon3 from "../Assets/Icons/support.svg";
 import { title } from "motion/react-client";
-import person1 from "../assets/Images/customer1.jpeg";
-import person2 from "../assets/Images/customer2.svg";
+import person1 from "../Assets/Images/customer1.jpeg";
+import person2 from "../Assets/Images/customer2.svg";
 
 export const popularProducts = [
   {

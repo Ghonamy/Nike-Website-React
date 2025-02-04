@@ -1,4 +1,4 @@
-import Offer from "../assets/Images/offer.svg";
+import Offer from "../Assets/Images/offer.svg";
 
 function SpecialOffer() {
   return (

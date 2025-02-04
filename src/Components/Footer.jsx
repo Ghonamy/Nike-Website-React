@@ -1,7 +1,7 @@
-import logo from "../assets/Images/footer-logo.svg";
-import facebookLogo from "../assets/Icons/facebook.svg";
-import twitterLogo from "../assets/Icons/twitter.svg";
-import instagramLogo from "../assets/Icons/instagram.svg";
+import logo from "../Assets/Images/footer-logo.svg";
+import facebookLogo from "../Assets/Icons/facebook.svg";
+import twitterLogo from "../Assets/Icons/twitter.svg";
+import instagramLogo from "../Assets/Icons/instagram.svg";
 function Footer() {
   return (
     <div className="bg-black pt-14 pb-5 px-7 text-white">
